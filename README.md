@@ -6,5 +6,7 @@
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderRosso&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+<div>
   <a href="https://www.linkedin.com/in/eder-de-rosso-716954127">
   <a href="https://github.com/EderRosso">
+</div>
