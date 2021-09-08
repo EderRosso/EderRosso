@@ -7,6 +7,8 @@
 </div>
 
 <div>
+  <br>
+  <hr>
   "https://www.linkedin.com/in/eder-de-rosso-716954127"
-  "https://github.com/EderRosso">
+  <br>
 </div>
