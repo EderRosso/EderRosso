@@ -1,5 +1,7 @@
 <div>
-  <h1>Cursando Analise e Desenvolvimento de Sistemas</h1>
+  <h1>Éder Oliveira de Rosso</h1>
+  <p>Este é o espaço onde coloco meus trabalhos de faculdade</p>
+  <a href="https://www.linkedin.com/in/eder-de-rosso-716954127">
   <a href="https://github.com/EderRosso">
   <img height="auto" src="https://github-readme-stats.vercel.app/api?username=EderRosso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderRosso&layout=compact&langs_count=7&theme=algolia"/>
