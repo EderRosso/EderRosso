@@ -10,6 +10,6 @@
   <br>
   <hr>
   <p>Links:</P>
-    [Link 1](https://www.linkedin.com/in/eder-de-rosso-716954127/)
+   custon: ["https://www.linkedin.com/in/eder-de-rosso-716954127/", linkedin.com]
   <br>
 </div>
