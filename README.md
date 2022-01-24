@@ -10,6 +10,6 @@
   <br>
   <hr>
   <p>Links:</P>
-   custom: ["https://www.linkedin.com/in/eder-de-rosso-716954127/", linkedin.com]
+  > https://www.linkedin.com/in/eder-de-rosso-716954127/"
   <br>
 </div>
