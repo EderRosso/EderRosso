@@ -9,7 +9,7 @@
 <div>
   <br>
   <hr>
-  <p>Links:</P>
-  > http://linkedin.com/in/eder-oliveira-de-rosso-716954127
+  <p>e-mail:</P>
+  > ederderosso@gmail.com
   <br>
 </div>
