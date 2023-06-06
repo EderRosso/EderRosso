@@ -1,11 +1,11 @@
 ## Éder Oliveira de Rosso
 
-#### Estudante de tecnologia 
+### Estudante de tecnologia 
 
 #### Este é o espaço onde coloco minhas atividades do curso de graduação em Análise e Desenvolvimento de Sistemas.
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderRosso&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderRosso&show_icons=true&theme=dark) -->
 
 <div style="display: inline_block">
     <p>Tecnologias:</p>
@@ -23,4 +23,4 @@
 </div></br>
 
 ### Minhas Redes:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eder-oliveira-de-rosso-716954127)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eder-oliveira-de-rosso-716954127/)
