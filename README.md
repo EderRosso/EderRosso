@@ -1,11 +1,10 @@
 ## Éder Oliveira de Rosso
 
-### Estudante de tecnologia 
+Estudante de tecnologia 
 
 #### Este é o espaço onde coloco minhas atividades do curso de graduação em Análise e Desenvolvimento de Sistemas.
 </br>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EderRosso&show_icons=true&theme=dark) -->
 
 <div style="display: inline_block">
     <p>Tecnologias:</p>
