@@ -1,10 +1,11 @@
 ## Éder Oliveira de Rosso
 
+``
 Estudante de tecnologia 
+``
 
-#### Este é o espaço onde coloco minhas atividades do curso de graduação em Análise e Desenvolvimento de Sistemas.
-</br>
-
+`Este é o espaço onde coloco minhas atividades do curso de graduação em Análise e Desenvolvimento de Sistemas.
+`
 
 <div style="display: inline_block">
     <p>Tecnologias:</p>
