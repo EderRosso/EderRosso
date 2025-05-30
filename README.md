@@ -1,4 +1,5 @@
 # 👋 Olá! Eu sou Éder Oliveira de Rosso  
+![Visitantes](https://komarev.com/ghpvc/?username=EderRosso&color=blue)
 
 📚 **Professor de Informática e Tecnologia da Informação**  
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**
@@ -27,9 +28,6 @@ Sou apaixonado por aprender, ensinar e compartilhar conhecimento em tecnologia! 
 
 ---
 
-![Visitantes](https://komarev.com/ghpvc/?username=EderRosso&color=blue)
-
----
 
 ## 📈 GitHub Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EderRosso&show_icons=true&theme=radical)
